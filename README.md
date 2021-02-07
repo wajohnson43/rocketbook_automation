@@ -18,7 +18,9 @@ Set up:
     
     
     Save Attachments To <path_to_note_directory>
+    
+5) add PyPDF2 to python3 (pip3 install PyPDF2)
 
-5) In Linux, change the path variable in sort.py to <path_to_note_directory>
+6) In Linux, change the path variable in sort.py to <path_to_note_directory>
  
-6) In Linux, move sort.py into the notes directory.  Then set a cronjob to call it (youre preference on time). 
+7) In Linux, move sort.py into the notes directory.  Then set a cronjob to call it (youre preference on time). 

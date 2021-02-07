@@ -14,10 +14,13 @@ Set up:
 3) Set a directory for all notes to be stored in.
 
 4) In thunderbird, create a filter:
-    Getting New Mail: Filter before Classification
+
+    Getting New Mail:   Filter before Classification
+
+    Match all of the following
+    From    is  notes@email.getrocketbook.com
     
-    
-    Save Attachments To <path_to_note_directory>
+    Save Attachments To     <path_to_note_directory>
     
 5) add PyPDF2 to python3 (pip3 install PyPDF2)
 

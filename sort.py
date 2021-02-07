@@ -5,7 +5,7 @@ import glob
 import time
 from PyPDF2 import PdfFileMerger
 
-path = '/home/scifr/Documents/notes/'
+path = ''
 
 def sort():
 
